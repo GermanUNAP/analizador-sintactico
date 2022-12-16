@@ -1,0 +1,12 @@
+clase Persona {
+    publico:
+        text nombre;
+        integer edad;
+        integer peso;
+        text saludo();
+}
+main(){
+    Persona Juan;
+    Juan.nombre = "Juan Vargas";
+    Juan.edad = 18;
+}

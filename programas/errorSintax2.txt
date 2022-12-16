@@ -1,0 +1,8 @@
+
+main(){
+    decimal a;
+    integer i;
+    a := 1.5;
+    i := 2;
+    a := a + i;
+}

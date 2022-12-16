@@ -1,0 +1,14 @@
+main(){
+  integer a;
+  integer c;
+  bool vrd;
+  integer d;
+  a := 1;
+  c := 2;
+  si (a > b, c){
+    vrd := true;
+  }
+  sino{
+    vrd := false;
+  }
+}
